@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-    std::cout<<"fdasfds";
-
+    std::cout<<"Nie no, poprawię";
+    std::cout<<"\nHello in C++";
 }
