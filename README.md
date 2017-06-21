@@ -1,4 +1,3 @@
 # VSCodeTest
 VSDawaj
-sdsada
-asdsadsa
+Ok, działa
