@@ -1,6 +1,9 @@
 #include <iostream>
 
+using namespace::std;
+
 int main(){
-    std::cout<<"Nie no, poprawię";
-    std::cout<<"\nHello in C++";
+    cout<<"Nie no, poprawię";
+    cout<<"\nHello in C++";
+
 }
